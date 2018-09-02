@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "description": "A web application for the builders collective workshops",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "uikit": "^3.0.0-rc.12"
+  },
   "devDependencies": {
     "jus": "^0.26.0"
   },
