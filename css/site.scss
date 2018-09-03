@@ -1,4 +1,7 @@
 // 1. Your custom variables and variable overwrites.
+$global-font-family: Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$base-body-font-weight: 100 !default;
+$base-heading-font-weight: 100 !default;
 $global-link-color: #f00;
 
 // 2. Import default variables and available mixins.
