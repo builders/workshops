@@ -4,6 +4,7 @@
   "description": "A web application for the builders collective workshops",
   "main": "index.js",
   "dependencies": {
+    "node-sass": "^4.9.3",
     "uikit": "^3.0.0-rc.12"
   },
   "devDependencies": {
